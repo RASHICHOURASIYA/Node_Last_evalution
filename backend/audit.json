@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1721043639542,
+            "name": "C:\\Users\\rashi\\OneDrive\\Desktop\\Node_4th Evalution\\backend\\public\\access-20240715.log",
+            "hash": "acdb341870942f3d61b6d34c4f4ce7d2"
+        },
+        {
+            "date": 1721056733865,
+            "name": "C:\\rashi_chourasiya_ft31_002\\unit-6\\sprint-4\\evaluation\\backend\\public\\access-20240715.log",
+            "hash": "7087ac667cb1ffb819845a2b7a7cffe4"
+        }
+    ]
+}
